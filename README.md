@@ -1,2 +1,2 @@
-# apnacollege-demo
+# Demo Repository
 This is my first Git Repository.
